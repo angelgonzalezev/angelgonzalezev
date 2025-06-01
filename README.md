@@ -1,3 +1,7 @@
+<!--Banner-->
+![Angel Gonzalez Banner Image](https://pbs.twimg.com/profile_banners/242759071/1744145954/1500x500)
+
+
 # Hi there, Ángel here <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/angelgonzalezev)](https://www.linkedin.com/in/angelgonzalezev)  [![Youtube Channel](https://img.shields.io/badge/-Angel%20Gonzalez-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/@angelgonzaleh)](https://www.youtube.com/@angelgonzaleh) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/angelgonzalezev?tab=followers)<br/>
 
